@@ -5,7 +5,7 @@ Hola Soy Lucas
 
 ## Soy de Argentina  
 
-#### Soy Licenciado en Administración de Empresas y Full Stack Delevoper.
+#### Soy Licenciado en Administración de Empresas y Full Stack Developer.
 #### Me interesa el análisis de información financiera y el desarrollo de aplicaciones web orientada a dicho campo.
 
 <p>
