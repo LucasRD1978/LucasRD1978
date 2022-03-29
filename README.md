@@ -35,8 +35,10 @@ Hola Soy Lucas
 </p>
 
 ## Proyectos desarrollados en el Bootcamp de SoyHenry
-
-
+#### Proyecto Individual: Video Games
+<img src= Imagenes\PI-VG.jpg height= 160 weight = 160>
+<img src= Imagenes\PI-VG_Deatil.jpg  height= 160 weight = 160>
+<img src= Imagenes\PI-VG-Form.jpg height= 160 weight = 160>
 
 
 <!--
